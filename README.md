@@ -255,6 +255,8 @@ Goal - bridge the gap and develope resources which are more accessible.
 - having had a bit of experience lookoing at these larger companies and seeing the direction they're heading at the end of the day what the intention for all of this would be to develope the kind of systems or develop  more approachable ways to understand BCI as a whole if it's going to become a technology that is widely used in the future. it seems that it is going toi be one of the technologies that will be likely used in our generations- it's important that we grasp basic understanding of how to build smaller project , tutorial, curriculam, communities around technology that will be impactful. 
 
 
+## Braindecode models experimentations paper reference
+- [Deep4Net](https://arxiv.org/pdf/1703.05051.pdf)
 
 ----
 ---
